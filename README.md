@@ -1,6 +1,8 @@
 # Digital-Musical-Note-Generator-Using-Altera-MAX-2-CPLD
 A CPLD-based musical note generator using the Altera MAX 2, where 7 pushbuttons trigger corresponding sounds (Sa, Re, Ga, Ma, Pa, Dha, Ni) with LED feedback for visual indication.
 
+https://github.com/Aman-Dudhpachare/Digital-Musical-Note-Generator-Using-Altera-MAX-2-CPLD/blob/main/IMAGES/b3ede3f2.jpg?raw=true
+
 Here’s an expanded version of the Project Description for your README file:
 
 Project Description
